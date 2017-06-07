@@ -1,6 +1,6 @@
 电影管理小系统（jsp+servlet的MVC模式）
 ====
-软件工程一体化作业 作者：axin，gaoRong
+软件工程一体化作业 作者：Axin，GaoRong
 ------
 
 ----
